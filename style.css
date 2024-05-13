@@ -1,0 +1,331 @@
+*{
+    padding: 0rem;
+    margin: 0rem;
+    font-family: 'josefin-sans' sans-serif;
+    box-sizing: border-box;
+}
+html {
+    font-size: 62.5%;
+}
+.roots-1 {
+    position: relative;
+    height: 110vh;
+    width: 100vw;
+    background-color: #E2D1B3;
+}
+.logo {
+    position: absolute;
+    top: 3.5rem;
+    left: 60rem;
+}
+.logo img {
+    width: 8vw;
+}
+.roots-2 {
+    position: absolute;
+    top: 5rem;
+    left: 30rem;
+    font-size: 1.5rem;
+}
+.roots-2 ul {
+    list-style-type: none;
+    margin-top: 5rem;
+    padding-right: 2.5rem;
+    overflow: hidden;
+}
+.roots-2 ul li {
+    margin-right: 0.625rem;
+}
+.roots-2 li {
+    float: left;
+    left: 5rem;
+    color: #364e59;
+    padding-right: 1.25rem; 
+}
+.roots-2 li a {
+    background-color: white;
+    text-decoration:none;
+    color: #364e59;
+    display:block;
+}
+.roots-2 a :hover {
+   color: rgb(158, 120, 120);
+}
+.roots-3 {
+    position: absolute;
+    top: 5rem;
+    font-size: 1.5rem;
+    right: 30rem;
+}
+.roots-3 ul {
+    list-style-type: none;
+    margin-top: 5rem;
+    padding-right: 2rem;
+    overflow: hidden;
+}
+.roots-3 ul li {
+    margin-right: 0.625rem;
+}
+.roots-3 li {
+    float: left;
+    right: 5rem;
+    color: #364e59;
+    padding-right: 1.25rem; 
+}
+.roots-3 li a {
+    text-decoration:none;
+    color: #364e59;
+    display:block;
+}
+.roots-3 a :hover {
+   color: rgb(158, 120, 120);
+    background-color: white;
+}
+.roots-4 {
+    position: absolute;
+    top: 18rem;
+}
+.roots-4 img {
+    width: 70vw;
+    height: 75vh;
+}
+.roots-5 {
+    position: absolute;
+    background-color: white;
+    height: 46vh;
+    border: 1px solid white;
+    width: 40vw;
+    top: 51rem;
+    z-index: 1;
+    right: 5rem;
+}
+.roots-6 {
+    position: absolute;
+    line-height: 1.7;
+}
+.roots-6 h2 {
+    color: #364e59;
+    padding-left: 5rem;
+    font-size: 2.5rem;
+    margin-top: 0.625rem;
+}
+.roots-6 p {
+    font-size: 1.5rem;
+    padding-left: 2.8rem;
+    color: #364e59;
+    margin-top: 1rem;
+}
+.roots-7 {
+    position: absolute;
+    right: 2.8rem;
+    margin-top: 7rem;
+    color: #364e59;
+    line-height: 1.7;
+    font-size: 1.5rem;
+}
+.roots-7 a {
+    text-decoration: none;
+    padding: 1rem 6rem;
+    color: #364e59;
+    text-align: center;
+    border: 0.0625rem solid #364e59;
+    width: 20rem;
+}
+.roots-7 a :hover {
+    color: #364e59;
+    background-color: white;
+ }
+.roots-8 {
+    position: absolute;
+    height: 120vh;
+    width: 100vw;
+    background-color: #364e59;
+    top: 75rem;
+} 
+.roots-9 {
+    position: absolute;
+    text-align: left;color: white;
+    line-height: 1.7;
+    font-size: 1.5rem;
+    top: 18rem;
+    left: 10rem;
+}
+.roots-9 h1 {
+    font-size: 3.5rem;
+}
+.roots-9 a {
+    text-decoration: none;
+    padding: 1rem 5rem;
+    color: white;
+    background-color: #364e59;
+    text-align: center;
+    border: 0.125rem solid white;
+    width: 20rem;
+}
+.roots-9 a :hover {
+    color: #364e59;
+    background-color: white;
+ }
+.roots-10 {
+    position: absolute;
+    top: 18rem;
+    right: 0.0625rem;
+}
+.roots-10 img {
+    width: 46vw;
+    height: 70vh;
+}
+.roots-11 {
+    position: absolute;
+    height: 120vh;
+    width: 100vw;
+    background-color: #E2D1B3;
+    top: 150rem;
+} 
+.roots-12 {
+    position: absolute;
+    text-align: left;
+    line-height: 1.7;
+    color: #364e59;
+    font-size: 1.5rem;
+    top: 18rem;
+    left: 10rem;
+}
+.roots-12 h1 {
+    font-size: 7rem;
+    color: #364e59;
+}
+.roots-12 a {
+    text-decoration: none;
+    padding: 1rem 6rem;
+    color: #364e59;
+    background-color: #E2D1B3;
+    text-align: center;
+    border: 0.125rem solid #364e59;
+    width: 20rem;
+}
+.roots-12 a :hover {
+    color: #364e59;
+    background-color: #E2D1B3;
+ }
+.roots-13 {
+    position: absolute;
+    top: 7rem;
+    right: 7rem;
+}
+.roots-13 img {
+    width: 90vh;
+    height: 70vh;
+}
+.roots-w {
+    position: absolute;
+    background-color: #364e59;
+    width: 100vw;
+    top: 225rem;
+    height: 18vh;
+}
+.roots-14 {
+    position: absolute;
+    color: white;
+    left: 7.5rem;
+    font-size: 1.75rem;
+    top: 6rem;
+}
+.roots-14-b a {
+    text-decoration: none;
+    color: white;
+}
+.roots-14-b {
+    margin-top: 6rem;
+    color: white;
+    padding-right: 1.5rem;
+    font-size: 1.75rem;
+    margin-left: 115rem;
+}
+.roots-15 {
+    position: absolute;
+    background-color: rgb(248, 234, 222);
+    width: 100vw;
+    height: 60vh;
+    top: 237rem;
+}
+#roots-15b {
+    position: absolute;
+    padding-left: 8rem;
+    color: #6a5e53;
+    font-size: 1.3rem;
+    padding-top: 8rem;
+}
+#roots-15b a {
+    text-decoration: none;
+    color: #6a5e53;
+}
+.roots-16 {
+    position: absolute;
+    line-height: 1.7;
+    padding-top: 172.5rem;
+    color: #6a5e53;
+    font-size: 1.3rem;
+    left: 30rem;
+}
+#roots-17 {
+    position: absolute;
+    line-height: 1.7;
+    color: #6a5e53;
+    padding-top: 182rem;
+    font-size: 1.3rem;
+    left: 30rem; 
+}
+#roots-17 a {
+    text-decoration: none;
+    color: #6a5e53;
+}
+#root-17 a :hover {
+    color: #6a5e53;
+}
+#roots-18 {
+    position: absolute;
+    line-height: 1.7;
+    font-size: 1.3rem;
+    color: #6a5e53;
+    padding-top: 187rem;
+    left: 30rem;
+}
+#roots-18 a {
+    color: #6a5e53;
+    text-decoration: none;
+}
+#root18 a :hover {
+    color: #6a5e53;
+}
+.roots-19 {
+    position: absolute;
+    top: 244rem;
+    text-align: left;
+    color: #6a5e53;
+    font-size: 1.3rem;
+    left: 60rem;
+}
+.roots-20 {
+    position: absolute;
+    left: 105rem;
+    text-align: left;
+    color: #6a5e53;
+    font-size: 1.3rem;
+    top: 244rem;
+}
+.fa-brands {
+    padding-right: 3rem;
+}
+.fa-facebook {
+    border: 0.0625rem solid blanchedalmond;
+    color: #6a5e53;
+}
+.fa-twitter {
+    border: 0.0625rem solid blanchedalmond;
+    color: #6a5e53;
+}
+.fa-instagram {
+    color: #6a5e53;
+    border: 0.0625rem solid blanchedalmond;
+}

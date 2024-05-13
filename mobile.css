@@ -1,0 +1,278 @@
+*{
+    padding: 0rem;
+    margin: 0rem;
+    font-family: 'josefin-sans' sans-serif;
+    box-sizing: border-box;
+}
+html {
+    font-size: 60%;
+}
+.roots-1 {
+    position: relative;
+    height: 110vh;
+    width: 100vw;
+    background-color: #E2D1B3;
+}
+.logo {
+    position: absolute;
+    top: 5rem;
+    left: 0rem;
+}
+.logo img {
+    width: 20vw;
+}
+.roots-2 {
+    position: absolute;
+    display: none;
+}
+.roots-3 {
+    position: absolute;
+    display: none;
+}
+.roots-4 {
+    position: absolute;
+    top: 18rem;
+}
+.roots-4 img {
+    width: 100vw;
+    height: 55vh;
+}
+.roots-5 {
+    position: absolute;
+    background-color: white;
+    height: 50vh;
+    border: 1px solid white;
+    width: 36rem;
+    top: 60rem;
+    z-index: 1;
+    right: 3rem;
+}
+.roots-6 {
+    position: absolute;
+    line-height: 1.7;
+}
+.roots-6 h2 {
+    color: #364e59;
+    padding-left: 5rem;
+    font-size: 1.5rem;
+    margin-top: 0.625rem;
+}
+.roots-6 p {
+    font-size: 1rem;
+    padding-left: 1rem;
+    color: #364e59;
+    margin-top: 1rem;
+}
+.roots-7 {
+    position: absolute;
+    right: 1rem;
+    margin-top: 5.7rem;
+    color: #364e59;
+    line-height: 1.7;
+    font-size: 1rem;
+}
+.roots-7 a {
+    text-decoration: none;
+    padding: 1rem 3rem;
+    color: #364e59;
+    text-align: center;
+    border: 0.0625rem solid #364e59;
+    width: 12rem;
+}
+.roots-7 a :hover {
+    color: #364e59;
+    background-color: white;
+ }
+.roots-8 {
+    position: absolute;
+    height: 155vh;
+    width: 100vw;
+    background-color: #364e59;
+    top: 75rem;
+} 
+.roots-9 {
+    position: absolute;
+    text-align: left;color: white;
+    line-height: 1.7;
+    font-size: 2rem;
+    top: 53rem;
+    left: 1rem;
+}
+.roots-9 h1 {
+    font-size: 2.5rem;
+}
+.roots-9 p {
+    font-size: 1.4rem;
+}
+.roots-9 a {
+    text-decoration: none;
+    padding: 1rem 5rem;
+    color: white;
+    background-color: #364e59;
+    text-align: center;
+    border: 0.125rem solid white;
+    width: 20rem;
+}
+.roots-9 a :hover {
+    color: #364e59;
+    background-color: white;
+ }
+.roots-10 {
+    position: absolute;
+    top: 18rem;
+    right: 0.0625rem;
+}
+.roots-10 img {
+    width: 100vw;
+    height: 60vh;
+}
+.roots-11 {
+    position: absolute;
+    height: 135vh;
+    width: 100vw;
+    background-color: #E2D1B3;
+    top: 165rem;
+} 
+.roots-12 {
+    position: absolute;
+    text-align: left;
+    line-height: 1.2;
+    color: #364e59;
+    font-size: 1.49rem;
+    top: 43rem;
+    left: 1rem;
+}
+.roots-12 h1 {
+    font-size: 5rem;
+    color: #364e59;
+}
+.roots-12 a {
+    text-decoration: none;
+    padding: 1rem 6rem;
+    color: #364e59;
+    background-color: #E2D1B3;
+    text-align: center;
+    border: 0.125rem solid #364e59;
+    width: 20rem;
+}
+.roots-12 a :hover {
+    color: #364e59;
+    background-color: #E2D1B3;
+ }
+.roots-13 {
+    position: absolute;
+    top: 7rem;
+    right: 5rem;
+}
+.roots-13 img {
+    height: 80vw;
+}
+.roots-w {
+    position: absolute;
+    background-color: #364e59;
+    width: 100vw;
+    top: 244.1rem;
+    height: 35vh;
+}
+.roots-14 {
+    position: absolute;
+    color: white;
+    text-align: center;
+    font-size: 1rem;
+    top: 4rem;
+}
+.roots-14 a {
+    text-decoration: none;
+    color: white;
+    padding-right: 1.5rem;
+    font-size: 1rem;
+    text-align: center;
+}
+.roots-15 {
+    position: absolute;
+    background-color: rgb(248, 234, 222);
+    width: 100vw;
+    line-height: 1.7;
+    height: 110vh;
+    top: 265rem;
+}
+#roots-15b {
+    position: absolute;
+    padding-left: 3rem;
+    color: #6a5e53;
+    font-size: 1.3rem;
+    padding-top: 8rem;
+}
+#roots-15b a {
+    text-decoration: none;
+    color: #6a5e53;
+}
+.roots-16 {
+    position: absolute;
+    line-height: 1.7;
+    padding-top: 208.5rem;
+    color: #6a5e53;
+    font-size: 1.3rem;
+    left: 22rem;
+}
+#roots-17 {
+    position: absolute;
+    line-height: 1.7;
+    color: #6a5e53;
+    padding-top: 218rem;
+    font-size: 1.3rem;
+    left: 22rem; 
+}
+#roots-17 a {
+    text-decoration: none;
+    color: #6a5e53;
+}
+#root-17 a :hover {
+    color: #6a5e53;
+}
+#roots-18 {
+    position: absolute;
+    line-height: 1.7;
+    font-size: 1.3rem;
+    color: #6a5e53;
+    padding-top: 225rem;
+    left: 22rem;
+}
+#roots-18 a {
+    color: #6a5e53;
+    text-decoration: none;
+}
+#root18 a :hover {
+    color: #6a5e53;
+}
+.roots-19 {
+    position: absolute;
+    top: 300rem;
+    text-align: left;
+    color: #6a5e53;
+    font-size: 1.3rem;
+    left: 3rem;
+}
+.roots-20 {
+    position: absolute;
+    left: 18rem;
+    text-align: left;
+    color: #6a5e53;
+    font-size: 1.3rem;
+    top: 320rem;
+}
+.fa-brands {
+    padding-right: 3rem;
+}
+.fa-facebook {
+    border: 0.0625rem solid blanchedalmond;
+    color: #6a5e53;
+}
+.fa-twitter {
+    border: 0.0625rem solid blanchedalmond;
+    color: #6a5e53;
+}
+.fa-instagram {
+    color: #6a5e53;
+    border: 0.0625rem solid blanchedalmond;
+}
